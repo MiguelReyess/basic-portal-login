@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1703910608727,
+    "name": "test@test.com",
+    "email": "test@test.com",
+    "password": "$2b$10$ArwAEEqGBvJMvrXdA5hSG.5eDrXmu28X6wNehOPAd7MFGNz0pH5Ku"
+  },
+  {
+    "id": 1703922590519,
+    "name": "Miguel Reyes",
+    "email": "miguelreyes95@hotmail.com",
+    "password": "$2b$10$IjyMRi4lgWH4xo2Ly2tBDO.LiP9MLuhbZ0fM7IdJfcxOO.g1ye6WS"
+  }
+]
